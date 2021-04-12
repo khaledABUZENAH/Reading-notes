@@ -16,5 +16,4 @@ Git is a **DVCS** that stores data in a file system made up of snapshots. It rel
 ## the history of GitHub
 Before the version than we have here, it was a DVCS called BitKeeper in 2002 and is was founded by Linux kernel. in 2005 when many of developers stopped usings this DVCS due to a tension between Linux Kanrel and the company behind BitKeeper. Therefore, Linus Torvalds, the chief architect of the Linux kernel, began creating Git and his intention was to create a DVCS with a workflow design similar to that of BitKeeper. Since then, Git has become one of the most famous Version Control Systems in the world.
 
-## commands the GitHub offers for you
 
