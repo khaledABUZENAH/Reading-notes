@@ -5,15 +5,16 @@
 
 A growth mindset is to believe that your abilities can be developed through dedication and effort.
 
-### the benefits of having a growth mindset
-*  it can open pathways to more creativity and possibility
-*  enable the setting of higher goals and more achievement
-*  increases productivity and self confedence
+### the benefits of having a growth mindset:
+*  it can open pathways to more creativity and possibility.
+*  enable the setting of higher goals and more achievement.
+*  increases productivity and self confedence.
 
-### reminders of myself of how to keep growth mindset
-1. I always embrece challenges
-2. I have to be presistent when it comes to obsttacles
-3. I try to learn from critisism as much as I can even though it sometimes make me angry
+### reminders of myself of how to keep growth mindset:
+1. I always embrece challenges.
+2. I have to be presistent when it comes to obsttacles.
+3. I try to learn from critisism as much as I can even though it sometimes make me angry.
+4. I see the achievements of the others as a motivation and inspiration.
 
 #### **for more informations [click here](https://www.atlassian.com/blog/inside-atlassian/growth-mindset)
 
