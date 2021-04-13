@@ -1,4 +1,19 @@
-# Reading-notes
+#  Welcome to my Reading-notes
+
+## table of content ^.^
+| Reading Topic       | live URLs     |
+| :------------- | :----------: |
+|  read01 |[link]()   |
+| read02   | [link](https://khaledabuzenah.github.io/Reading-notes/Read02) |
+| read03   | [link]() |
+
+
+
+
+
+
+
+
 
 ## Growth Mindset
 ![mindset](https://tofasakademi.com/wp-content/uploads/2019/06/growth-mindset3.png)
