@@ -1,7 +1,7 @@
 # ***Javascript***
 
 ![javascript](https://cdn.searchenginejournal.com/wp-content/uploads/2020/02/seo-javascript-the-good-the-bad-the-uncertainty-5e4a09b3cd5db.png)
-There are three elements thet are used to create web pages, HTML, CSS, and Javascript, **HTML** gives the page stucture, **CSS** job is the presintation of the page, and the **Javascript** main function is to add interactivity. If you want to learn more about Javascript here are several things you should know:
+There are three elements thet are used to create web pages, HTML, CSS, and Javascript, **HTML** gives the page stucture, **CSS** job is the presintation of the page, and the **Javascript** main function is to add interactivity to the page. If you want to learn more about Javascript here are several things you should know:
 
 * javascript main idea is to give instructions for a browser to follow
 
