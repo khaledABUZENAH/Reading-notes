@@ -1,4 +1,18 @@
-# Reading-notes
+#  Welcome to my Reading-notes
+
+| content      | Live URLs    | 
+| :------------- | :----------: |
+|  Read01 |[link]() |
+| Read02   |  [link](https://khaledabuzenah.github.io/Reading-notes/Read02)|
+|   Read03 |  [link]() |           
+
+
+
+
+
+
+
+
 
 ## Growth Mindset
 ![mindset](https://tofasakademi.com/wp-content/uploads/2019/06/growth-mindset3.png)
@@ -10,7 +24,7 @@ A growth mindset is to believe that your abilities can be developed through dedi
 *  enable the setting of higher goals and more achievement.
 *  increases productivity and self confedence.
 
-### reminders of myself of how to keep growth mindset:
+### reminders of myself of how to keep growth mindset
 1. I always embrece challenges.
 2. I have to be presistent when it comes to obsttacles.
 3. I try to learn from critisism as much as I can even though it sometimes make me angry.
