@@ -7,7 +7,13 @@
 
 
 
-
+| Topic      | live URLS |
+| ----------- | ----------- |
+| read02      | [link](https://khaledabuzenah.github.io/Reading-notes/Read02)       |
+| read03   | [link](https://khaledabuzenah.github.io/Reading-notes/Read03)        |
+| read04a   | [link](https://khaledabuzenah.github.io/Reading-notes/read04a)        |
+| read04b   | [link](https://khaledabuzenah.github.io/Reading-notes/read04b)        |
+| read05   | [link](https://khaledabuzenah.github.io/Reading-notes/read05)        |
 
 
 
