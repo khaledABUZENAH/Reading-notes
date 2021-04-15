@@ -1,11 +1,9 @@
 # welcome to read03          
 
-## table of content ^.^
-| Reading Topic       | live URLs     |
-| :------------- | :----------: |
-|  read02 |[link]()   |
-| read03   | [link]() |
-| read04a   | [link]() |
+| read02 [link](https://khaledabuzenah.github.io/Reading-notes/Read02)   | read03 [link](https://khaledabuzenah.github.io/Reading-notes/Read03)   | read04a [link](https://khaledabuzenah.github.io/Reading-notes/read04a)   |
+| :------------- | :----------: | -----------: |
+|  read04b [link](https://khaledabuzenah.github.io/Reading-notes/read04b) |    |   |
+|   |  | | |
 
 
 
@@ -30,7 +28,7 @@ A growth mindset is to believe that your abilities can be developed through dedi
 3. I try to learn from critisism as much as I can even though it sometimes make me angry.
 4. I see the achievements of the others as a motivation and inspiration.
 
-#### **for more informations [click here](https://www.atlassian.com/blog/inside-atlassian/growth-mindset)
+#### for more informations [click here](https://www.atlassian.com/blog/inside-atlassian/growth-mindset)
 
 ## Hi. my name is Khaled Abuzenah and I'm 22 years old, I have a bachelors degree of English and Spanish languages from AABU, I'm curious about learning software development and I'm looking forward to work with you guys.
-## my GitHub URL: https://github.com/khaledABUZENAH
+## my GitHub [URL](https://github.com/khaledABUZENAH)
