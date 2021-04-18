@@ -9,6 +9,8 @@
 | read04a   | [link](https://khaledabuzenah.github.io/Reading-notes/read04a)        |
 | read04b   | [link](https://khaledabuzenah.github.io/Reading-notes/read04b)        |
 | read05   | [link](https://khaledabuzenah.github.io/Reading-notes/read05)        |
+| read06  | [link](https://khaledabuzenah.github.io/Reading-notes/read06)        |
+| read07  | [link](https://khaledabuzenah.github.io/Reading-notes/read07)        |
 
 
 
