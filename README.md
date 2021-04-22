@@ -11,6 +11,7 @@
 | read05   | [link](https://khaledabuzenah.github.io/Reading-notes/read05)        |
 | read06  | [link](https://khaledabuzenah.github.io/Reading-notes/read06)        |
 | read07  | [link](https://khaledabuzenah.github.io/Reading-notes/read07)        |
+| read09  | [link](https://khaledabuzenah.github.io/Reading-notes/read09)        |
 
 
 
